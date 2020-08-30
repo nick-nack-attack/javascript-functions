@@ -32,7 +32,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44e56c2d-0943-4e8d-8eb3-fbca3a258fcf" name="Default Changelist" comment="">
+    <list default="true" id="44e56c2d-0943-4e8d-8eb3-fbca3a258fcf" name="Default Changelist" comment="build out functions and variables in gameoflife.js">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/gameoflife.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/gameoflife.js" afterDir="false" />
     </list>
@@ -63,8 +63,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598739666825</updated>
-      <workItem from="1598739667955" duration="4947000" />
+      <workItem from="1598739667955" duration="5485000" />
     </task>
+    <task id="LOCAL-00001" summary="build out functions and variables in gameoflife.js">
+      <created>1598760795589</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598760795589</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,6 +88,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="build out functions and variables in gameoflife.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="build out functions and variables in gameoflife.js" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1375" height="222" key="GridCell.Tab.0.bottom" timestamp="1598739806930">
@@ -98,9 +110,9 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1375" height="222" key="GridCell.Tab.0.right/-1920.-215.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1598739806930" />
-    <state x="325" y="198" key="Vcs.Push.Dialog.v2" timestamp="1598739904142">
+    <state x="325" y="198" key="Vcs.Push.Dialog.v2" timestamp="1598760800098">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="325" y="198" key="Vcs.Push.Dialog.v2/-1920.-215.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1598739904142" />
+    <state x="325" y="198" key="Vcs.Push.Dialog.v2/-1920.-215.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1598760800098" />
   </component>
 </project>
